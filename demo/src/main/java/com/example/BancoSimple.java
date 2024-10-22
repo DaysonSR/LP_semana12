@@ -127,5 +127,7 @@ public class BancoSimple {
     public static void consultarSaldo(int saldo) {
         System.out.println("El saldo de " + nombres[saldo] + " es: " + saldos[saldo]);
         //git 
+
+        //tg
     }
 }
